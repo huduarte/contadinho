@@ -1,0 +1,12 @@
+{
+  "name": "contadinho",
+  "displayName": "contadinho",
+  "expo": {
+    "name": "contadinho",
+    "slug": "contadinho",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
