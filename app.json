@@ -5,6 +5,9 @@
     "name": "contadinho",
     "slug": "contadinho",
     "version": "1.0.0",
+    "splash": {
+      "backgroundColor": "#2BA84A"
+    },
     "assetBundlePatterns": [
       "**/*"
     ]
