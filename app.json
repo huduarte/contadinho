@@ -1,12 +1,11 @@
 {
-  "name": "contadinho",
-  "displayName": "contadinho",
   "expo": {
     "name": "contadinho",
+    "experiments": {
+      "tsconfigPaths": true
+    },
     "slug": "contadinho",
     "version": "1.0.0",
-    "assetBundlePatterns": [
-      "**/*"
-    ]
+    "assetBundlePatterns": ["**/*"]
   }
 }
