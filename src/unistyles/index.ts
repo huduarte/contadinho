@@ -14,11 +14,11 @@ declare module 'react-native-unistyles' {
 }
 
 UnistylesRegistry
-  .addBreakpoints(breakpoints)
-  .addThemes({
-    light: lightTheme,
-    dark: darkTheme,
-  })
-  .addConfig({
-    adaptiveThemes: true
-  })
+	.addBreakpoints(breakpoints)
+	.addThemes({
+		light: lightTheme,
+		dark: darkTheme,
+	})
+	.addConfig({
+		adaptiveThemes: true
+	})
